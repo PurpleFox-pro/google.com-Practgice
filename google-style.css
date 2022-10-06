@@ -1,0 +1,21 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 50%
+}
+
+input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 35px;
+    width: 40rem;
+    transition: box-shadow 0.3s;
+    border-radius: 20px;
+    margin-bottom: 300px;
+    border: 1px solid;
+}
+
